@@ -1,0 +1,33 @@
+_repo: Yrj--Aukusti-Wallin-ja-h-nen-matkansa-Arabiassa_18808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Suonio
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+description: ''
+gutenberg_issued: '2006-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18808'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabian Peninsula -- Description and travel'
+- !lcsh 'Wallin, Georg August'
+- !lcc 'DS'
+title: Yrjö Aukusti Wallin ja hänen matkansa Arabiassa
+url: http://www.gutenberg.org/ebooks/18808
