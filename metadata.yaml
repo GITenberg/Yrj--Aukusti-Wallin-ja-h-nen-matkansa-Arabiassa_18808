@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18808#Yrj--Aukusti-Wallin-ja-h-nen-matkansa-Arabiassa
 gutenberg_issued: '2006-07-11'
 gutenberg_type: Text
 identifiers:
